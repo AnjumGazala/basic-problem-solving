@@ -1,1 +1,1 @@
-# basic-problem-solving
+# This repo contains problem solving.
